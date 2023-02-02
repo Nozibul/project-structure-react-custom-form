@@ -1,0 +1,4 @@
+ 
+ Ai component folder er moddhe sei sob component thakbe 
+ je component gulo amra reuse korte parbo .
+ 
